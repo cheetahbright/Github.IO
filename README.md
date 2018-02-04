@@ -1,7 +1,13 @@
 # trackoverxc
-My name is Devin Rose and I'm currently a technical security specialist. You can find some projects I've worked on outside of my job below.
+Hi I'm Devin and I'm currently a technical security specialist. Here you can find short descriptions of some projects I've worked on outside of my job below.
 
 # Projects
+
+## 2018
+* Spotify NLP Excursion
+
+My friend [Malcolm Taylor](malcolmtaylor15.github.io) and I are working on this project to apply natural language processing (NLP) techniques to song lyrics from a users' Spotify playlists or individual songs. We utilize the Genius and Spotify APIs. We've also advanced our Git knowledge dramatically through this collaboration.
+
 ## 2017
 * Zillow’s Home Value Prediction (Zestimate)
 
