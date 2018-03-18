@@ -1,5 +1,5 @@
 # trackoverxc
-Hi, I'm Devin and I'm currently a technical security specialist. Here you can find short descriptions of some projects I've worked on outside of my job below.
+Hi, I'm Devin and I'm currently a technical security specialist. Here you can find short descriptions of some projects I've worked on outside of my job.
 
 # Projects
 
