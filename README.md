@@ -1,5 +1,5 @@
 # cheetahbright
-Hi, I'm currently a technical security specialist. Here you can find short descriptions of some projects I've worked on outside of my job.
+Hi. Here you can find short descriptions of some projects I've worked on outside of my job.
 
 # Projects
 
